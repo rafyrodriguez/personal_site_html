@@ -1,0 +1,21 @@
+
+  body
+  {
+    background-color:#F9F9F9;
+  }
+  img
+  {
+    align-items: center;
+  }
+  h1
+  {
+
+  }
+
+  hr
+  {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 20%;
+  }
